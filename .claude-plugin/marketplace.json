@@ -1,0 +1,18 @@
+{
+ "name": "sp-probe-catalog",
+ "owner": {
+  "name": "taylorhawksec"
+ },
+ "plugins": [
+  {
+   "name": "sha-pin-probe",
+   "version": "1.0.0",
+   "source": {
+    "source": "github",
+    "repo": "taylorhawksec/sp-probe-upstream",
+    "ref": "main",
+    "sha": "d05683d1045243f7061bb96252dd962e48c521d1"
+   }
+  }
+ ]
+}
